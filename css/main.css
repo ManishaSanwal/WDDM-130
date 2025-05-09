@@ -1,6 +1,7 @@
 body{
     margin: 20px;
     padding: 10px;
+    color: chartreuse;
 }
 img {
     width: 90vh;
@@ -15,5 +16,7 @@ video{
 
 .media{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    margin: 20px;
+    padding: 20px;
 }
