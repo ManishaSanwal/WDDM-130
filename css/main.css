@@ -1,3 +1,7 @@
+body{
+    margin: 20px;
+    padding: 10px;
+}
 img {
     width: 90vh;
     height: 50vh;
@@ -7,4 +11,9 @@ video{
     height: max-content;
     background-color: blueviolet;
     border: 2px solid red;
+}
+
+.media{
+    display: flex;
+    flex-direction: column;
 }
