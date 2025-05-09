@@ -3,3 +3,8 @@ img {
     height: 50vh;
 }
 
+video{
+    height: max-content;
+    background-color: blueviolet;
+    border: 2px solid red;
+}
